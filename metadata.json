@@ -1,0 +1,5 @@
+{
+  "name": "Memoket Device Manager",
+  "description": "Device management interface for Memoket NotePins with adding, searching, and connection flows.",
+  "requestFramePermissions": []
+}
